@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Smjenizator</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="smjene">Smjene</string>
+    <string name="kalendar">Kalendar</string>
+    <string name="temp_date">24.08</string>
+    <string name="temp_day">ponedjeljak</string>
+    <string name="temp_shift">Nocna</string>
+</resources>
